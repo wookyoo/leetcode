@@ -1,1 +1,2 @@
 88. Merge Sorted Array (Easy)
+442. Find All Duplicates in an Array (Medium)

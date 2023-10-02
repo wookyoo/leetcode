@@ -6,9 +6,7 @@ Daily Challenge!
 Welcome to my LeetCode study repository! Here, I document my daily progress in solving LeetCode problems using Java. <br>
  <br>
 ## Daily Updates
-- **Day 1:** Solved [Problem Title](Link to Solution) <br>
-- <b>#0</b> problems solved.
-Keep checking back for daily updates! <br>
+- <b>2</b> problems solved. Keep checking back for daily updates! <br>
  <br>
  
 ## Java Solutions
