@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.Stack;
 
+// This problem answer is same as 316. Remove Duplicate Letters (Medium)
 class Solution {
 
     public static void main(String[] args) {
@@ -65,5 +66,3 @@ class Solution {
         return sb.toString();
     }
 }
-
-// This problem answer is same as 316. Remove Duplicate Letters (Medium)
