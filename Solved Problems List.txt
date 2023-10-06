@@ -1,5 +1,6 @@
 1. Two Sum (Easy)
 88. Merge Sorted Array (Easy)
+121. Best Time to Buy and Sell Stock (Easy)
 217. Contains Duplicate (Easy)
 316. Remove Duplicate Letters (Medium)
 442. Find All Duplicates in an Array (Medium)
