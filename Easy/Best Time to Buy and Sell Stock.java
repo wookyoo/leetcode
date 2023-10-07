@@ -17,10 +17,6 @@ class Solution {
 }
 
 /*
- * 
- */
-
-/*
 Runtime
     Details
     1ms
